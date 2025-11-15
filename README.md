@@ -70,7 +70,7 @@ Make sure this Pokémon is in the lead of your party.
 In Ruby, Sapphire, and Emerald, when selecting Prof. Birch's bag at the start of the game, the player is placed into a unique UI for selecting their starter Pokémon.
 With this option, the extra optional input is added for selecting either Treecko or Mudkip, since the game defaults to Torchic.
 
-##RNG Manipulation? What's that?
+## RNG Manipulation? What's that?
 
 I recommend checking [this website](www.retailrng.com) for more info!
 
